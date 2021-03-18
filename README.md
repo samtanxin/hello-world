@@ -1,2 +1,2 @@
 # hello-world
-trying Githut and Git
+trying Github and Git
